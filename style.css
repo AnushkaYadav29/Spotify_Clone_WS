@@ -198,7 +198,7 @@ input{
 .footer-links {
     padding: 20px;
     display: flex;
-    flex-wrap: wrap;        /* 👈 allows next line */
+    flex-wrap: wrap;        /* allows next line */
     gap: 19px;              /* space between links */
     margin-bottom: 12px;
     margin-top: 50px;
@@ -618,7 +618,6 @@ input{
 .bottom-banner {
     position: fixed;
     top: 90%;
-    /* bottom: 0px; */
     margin-left: 5px;
     width: 99%;
     background: linear-gradient(to right, #af2896, #509bf5);
